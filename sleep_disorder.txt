@@ -1,0 +1,8 @@
+SLeep problem classification : 374 records
+
+
+
+1) removed 2 col : person id + occupation
+2) gender : Male -1, Female -2
+3) BMI : Overweight -1 ,Normal/Normal weight -2,  obese -3
+4) Target :  None-0 (219),Insomnia-1 (77),Sleep Apnea-2 (78)
